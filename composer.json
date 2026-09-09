@@ -1,7 +1,7 @@
 {
   "name": "seagm-swoft/validator",
   "type": "library",
-  "version": "v2.0.11",
+  "version": "v2.1.0",
   "keywords": [
     "php",
     "swoole",
@@ -11,8 +11,8 @@
   "homepage": "https://github.com/swoft-cloud/swoft-validator",
   "license": "Apache-2.0",
   "require": {
-    "php": ">7.1",
-    "seagm-swoft/framework": "~2.0.0"
+    "php": ">=8.2",
+    "seagm-swoft/framework": "~2.1.0"
   },
   "autoload": {
     "psr-4": {
